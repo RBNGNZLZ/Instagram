@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042AF0CC27E3D66700784D29 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042AF0CB27E3D66700784D29 /* CommentCell.swift */; };
 		0483842327DC52DE007E68E4 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0483842227DC52DE007E68E4 /* LoginViewController.swift */; };
 		0483842527DC52F9007E68E4 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0483842427DC52F9007E68E4 /* FeedViewController.swift */; };
 		0483842927DC5B09007E68E4 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0483842827DC5B09007E68E4 /* CameraViewController.swift */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		042AF0CB27E3D66700784D29 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		0483842227DC52DE007E68E4 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		0483842427DC52F9007E68E4 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		0483842827DC5B09007E68E4 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				0483842427DC52F9007E68E4 /* FeedViewController.swift */,
 				0483842827DC5B09007E68E4 /* CameraViewController.swift */,
 				0483842A27DC6307007E68E4 /* PostCell.swift */,
+				042AF0CB27E3D66700784D29 /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -439,6 +442,7 @@
 				0483842527DC52F9007E68E4 /* FeedViewController.swift in Sources */,
 				0487148027DC343A00036D48 /* SceneDelegate.swift in Sources */,
 				0483842B27DC6307007E68E4 /* PostCell.swift in Sources */,
+				042AF0CC27E3D66700784D29 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
